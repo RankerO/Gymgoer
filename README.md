@@ -8,10 +8,11 @@ igns) .Fortheowner ,there is no registration flow as all
 the owners are already on boarded and stored in the DB
 
 ### Tech Stack Used:
-1.Mongo DB
-2.Node Js
-3.React js
-4.Express Js
+1. Mongo DB
+2. Node Js
+3. React js
+4. Express Js
+
 ### Normal User flow : 
 Once the user register in the application (they can log in
 too if already registered).After that they should see google
